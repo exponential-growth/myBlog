@@ -1,3 +1,15 @@
+blog.cuteximi.com/一站式解决服务器缺少编译环境的问题，别再为了缺少依赖而烦恼了！/
+blog.cuteximi.com/解决这个警告⚠️：warning-setlocale-LC-CTYPE-cannot-change-locale-UTF-8-No-such-file-or-directory/
+blog.cuteximi.com/运行gulp项目报错：AssertionError-Task-function-must-be-specified/
+blog.cuteximi.com/make和makeinstall的区别/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录7-一些键盘按键技巧/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录6-重定向/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录5-使用命令/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录4-操作文件和目录/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录2-在文件系统中翱翔/
+blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录1-什么是shell/
+blog.cuteximi.com/并发编程的艺术之并发编程的挑战/
 blog.cuteximi.com/优秀的资源推荐/
 blog.cuteximi.com/mac指南/
 blog.cuteximi.com/pip-bug解决方案/

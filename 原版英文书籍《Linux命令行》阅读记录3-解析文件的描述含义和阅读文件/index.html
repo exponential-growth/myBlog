@@ -1,0 +1,162 @@
+<!DOCTYPE html><html style="display:none" lang="zh"><head><meta charset="utf-8"><script>window.materialVersion="1.5.5",window.oldVersion=["codestartv1","1.3.4","1.4.0","1.4.0b1","1.5.0"]</script><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="https://cdn1.lncld.net"><link rel="dns-prefetch" href="https://fonts.googleapis.com"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="renderer" content="webkit"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><title> 原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件 | 认真搞定一切</title><link rel="icon shortcut" type="image/ico" href="/img/favicon.png"><link rel="icon" href="/img/favicon.png"><meta name="format-detection" content="telephone=no"><meta name="description" itemprop="description" content="技术分享和生活体会"><meta name="keywords" content="认真搞定一切"><meta name="theme-color" content="#0097A7"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><!--[if lte IE 9]><link rel="stylesheet" href="/css/ie-blocker.css"><script src="/js/ie-blocker.zhCN.js"></script><![endif]--><script>window.lsloader={jsRunSequence:[],jsnamemap:{},cssnamemap:{}},lsloader.removeLS=function(e){try{localStorage.removeItem(e)}catch(e){}},lsloader.setLS=function(e,t){try{localStorage.setItem(e,t)}catch(e){}},lsloader.getLS=function(e){var t="";try{t=localStorage.getItem(e)}catch(e){t=""}return t},versionString="/*"+(window.materialVersion||"unknownVersion")+"*/",lsloader.clean=function(){try{for(var e=[],t=0;t<localStorage.length;t++)e.push(localStorage.key(t));e.forEach(function(e){var n=lsloader.getLS(e);window.oldVersion&&window.oldVersion.reduce(function(e,t){return e||-1!==n.indexOf("/*"+t+"*/")},!1)&&lsloader.removeLS(e)})}catch(e){}},lsloader.clean(),lsloader.load=function(e,t,n,s){var a;if("boolean"==typeof n&&(s=n,n=void 0),s=s||!1,n=n||function(){},(a=this.getLS(e))&&-1===a.indexOf(versionString))return this.removeLS(e),void this.requestResource(e,t,n,s);if(a){if(a.split(versionString)[0]!=t)return console.log("reload:"+t),this.removeLS(e),void this.requestResource(e,t,n,s);a=a.split(versionString)[1],s?(this.jsRunSequence.push({name:e,code:a}),this.runjs(t,e,a)):(document.getElementById(e).appendChild(document.createTextNode(a)),n())}else this.requestResource(e,t,n,s)},lsloader.requestResource=function(t,n,e,s){var a=this;s?this.iojs(n,t,function(e,t,n){a.setLS(t,e+versionString+n),a.runjs(e,t,n)}):this.iocss(n,t,function(e){document.getElementById(t).appendChild(document.createTextNode(e)),a.setLS(t,n+versionString+e)},e)},lsloader.iojs=function(t,n,e){var s=this;s.jsRunSequence.push({name:n,code:""});try{var a=new XMLHttpRequest;a.open("get",t,!0),a.onreadystatechange=function(){if(4==a.readyState){if((200<=a.status&&a.status<300||304==a.status)&&""!=a.response)return void e(t,n,a.response);s.jsfallback(t,n)}},a.send(null)}catch(e){s.jsfallback(t,n)}},lsloader.iocss=function(t,n,e,s){var a=this;try{var o=new XMLHttpRequest;o.open("get",t,!0),o.onreadystatechange=function(){if(4==o.readyState){if((200<=o.status&&o.status<300||304==o.status)&&""!=o.response)return e(o.response),void s();a.cssfallback(t,n,s)}},o.send(null)}catch(e){a.cssfallback(t,n,s)}},lsloader.iofonts=function(t,n,e,s){var a=this;try{var o=new XMLHttpRequest;o.open("get",t,!0),o.onreadystatechange=function(){if(4==o.readyState){if((200<=o.status&&o.status<300||304==o.status)&&""!=o.response)return e(o.response),void s();a.cssfallback(t,n,s)}},o.send(null)}catch(e){a.cssfallback(t,n,s)}},lsloader.runjs=function(e,t,n){if(t&&n)for(var s in this.jsRunSequence)this.jsRunSequence[s].name==t&&(this.jsRunSequence[s].code=n);if(this.jsRunSequence[0]&&this.jsRunSequence[0].code&&"failed"!=this.jsRunSequence[0].status)(a=document.createElement("script")).appendChild(document.createTextNode(this.jsRunSequence[0].code)),a.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(a),this.jsRunSequence.shift(),0<this.jsRunSequence.length&&this.runjs();else if(this.jsRunSequence[0]&&"failed"==this.jsRunSequence[0].status){var a,o=this;(a=document.createElement("script")).src=this.jsRunSequence[0].path,a.type="text/javascript",this.jsRunSequence[0].status="loading",a.onload=function(){o.jsRunSequence.shift(),0<o.jsRunSequence.length&&o.runjs()},document.body.appendChild(a)}},lsloader.tagLoad=function(e,t){this.jsRunSequence.push({name:t,code:"",path:e,status:"failed"}),this.runjs()},lsloader.jsfallback=function(e,t){if(!this.jsnamemap[t]){for(var n in this.jsnamemap[t]=t,this.jsRunSequence)this.jsRunSequence[n].name==t&&(this.jsRunSequence[n].code="",this.jsRunSequence[n].status="failed",this.jsRunSequence[n].path=e);this.runjs()}},lsloader.cssfallback=function(e,t,n){if(!this.cssnamemap[t]){this.cssnamemap[t]=1;var s=document.createElement("link");s.type="text/css",s.href=e,s.rel="stylesheet",s.onload=s.onerror=n;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(s,a)}},lsloader.runInlineScript=function(e,t){var n=document.getElementById(t).innerText;this.jsRunSequence.push({name:e,code:n}),this.runjs()}</script><script>function Queue(){this.dataStore=[],this.offer=function(e){this.debug&&console.log("Offered a Queued Function.");"function"==typeof e?this.dataStore.push(e):console.log("You must offer a function.")},this.poll=function(){this.debug&&console.log("Polled a Queued Function.");return this.dataStore.shift()},this.execNext=function(){var e=this.poll();void 0!==e&&(this.debug&&console.log("Run a Queued Function."),e())},this.debug=!1,this.startDebug=function(){this.debug=!0}}var queue=new Queue</script><style id="material_css"></style><script>void 0===window.lsLoadCSSMaxNums&&(window.lsLoadCSSMaxNums=0),window.lsLoadCSSMaxNums++,lsloader.load("material_css","/css/material.min.css?Z7a72R1E4SxzBKR/WGctOA==",function(){void 0===window.lsLoadCSSNums&&(window.lsLoadCSSNums=0),window.lsLoadCSSNums++,window.lsLoadCSSNums==window.lsLoadCSSMaxNums&&(document.documentElement.style.display="")},!1)</script><style id="style_css"></style><script>void 0===window.lsLoadCSSMaxNums&&(window.lsLoadCSSMaxNums=0),window.lsLoadCSSMaxNums++,lsloader.load("style_css","/css/style.min.css?NKhlKQkXw/c66TR5p4wO+w==",function(){void 0===window.lsLoadCSSNums&&(window.lsLoadCSSNums=0),window.lsLoadCSSNums++,window.lsLoadCSSNums==window.lsLoadCSSMaxNums&&(document.documentElement.style.display="")},!1)</script><style>body,html{font-family:Roboto,"Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;overflow-x:hidden!important}code{font-family:Consolas,Monaco,'Andale Mono','Ubuntu Mono',monospace}a{color:#00838f}#scheme-Paradox .hot_tags-count,#scheme-Paradox .sidebar-colored .sidebar-badge,#scheme-Paradox .sidebar-colored .sidebar-header,#scheme-Paradox .sidebar_archives-count,#search-form-label:after,#search-label,.mdl-card__media{background-color:#0097a7!important}#scheme-Paradox .sidebar-colored .sidebar-nav>.dropdown>.dropdown-menu>li>a:focus,#scheme-Paradox .sidebar-colored .sidebar-nav>.dropdown>.dropdown-menu>li>a:hover{color:#0097a7!important}#ds-reset #ds-ctx .ds-ctx-entry .ds-ctx-head a,#post_entry-right-info,.sidebar-colored .sidebar-nav li:hover>a,.sidebar-colored .sidebar-nav li:hover>a i,.sidebar-colored .sidebar-nav li>a:focus i,.sidebar-colored .sidebar-nav li>a:hover,.sidebar-colored .sidebar-nav li>a:hover i,.sidebar-colored .sidebar-nav>.open>a,.sidebar-colored .sidebar-nav>.open>a:focus,.sidebar-colored .sidebar-nav>.open>a:hover{color:#0097a7!important}.toTop{background:#757575!important}.material-layout .material-index>.material-nav,.material-layout .material-post>.material-nav,.material-nav a{color:#757575}#scheme-Paradox .MD-burger-layer{background-color:#757575}#scheme-Paradox #post-toc-trigger-btn{color:#757575}.post-toc a:hover{color:#00838f;text-decoration:underline}</style><style>body{background-color:#f5f5f5}#scheme-Paradox .material-layout .something-else .mdl-card__supporting-text{background-color:#fff}</style><style>.fade{transition:all .8s linear;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1}.fade.out{opacity:0}</style><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet"><style id="material_icons"></style><script>void 0===window.lsLoadCSSMaxNums&&(window.lsLoadCSSMaxNums=0),window.lsLoadCSSMaxNums++,lsloader.load("material_icons","/css/material-icons.css?pqhB/Rd/ab0H2+kZp0RDmw==",function(){void 0===window.lsLoadCSSNums&&(window.lsLoadCSSNums=0),window.lsLoadCSSNums++,window.lsLoadCSSNums==window.lsLoadCSSMaxNums&&(document.documentElement.style.display="")},!1)</script><script>lsloader.load("jq_js","/js/jquery.min.js?qcusAULNeBksqffqUM2+Ig==",!0)</script><meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="认真搞定一切"><meta name="msapplication-starturl" content="blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/"><meta name="msapplication-navbutton-color" content="#0097A7"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="认真搞定一切"><meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="apple-touch-icon" href="/img/favicon.png"><meta property="og:url" content="blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/"><meta property="og:type" content="blog"><meta property="og:title" content="原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件 | 认真搞定一切"><meta property="og:image" content="/img/favicon.png"><meta property="og:description" content="技术分享和生活体会"><meta property="article:published_time" content="Sat Oct 13 2018 11:04:37 GMT+0800"><meta property="article:modified_time" content="Sat Oct 13 2018 11:04:59 GMT+0800"><meta name="twitter:card" content="summary_large_image"><link rel="canonical" href="blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/index.html"><script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": "blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/index.html",
+    "headline": "原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件",
+    "datePublished": "Sat Oct 13 2018 11:04:37 GMT+0800",
+    "dateModified": "Sat Oct 13 2018 11:04:59 GMT+0800",
+    "author": {
+        "@type": "Person",
+        "name": "cuteximi",
+        "image": {
+            "@type": "ImageObject",
+            "url": "/img/avatar.png"
+        },
+        "description": "明天会更美好！"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "认真搞定一切",
+        "logo": {
+            "@type":"ImageObject",
+            "url": "/img/favicon.png"
+        }
+    },
+    "keywords": "认真搞定一切",
+    "description": "技术分享和生活体会",
+}
+</script><link rel="stylesheet" href="/css/prism.css" type="text/css"><link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body id="scheme-Paradox" class="lazy"><div class="material-layout mdl-js-layout has-drawer is-upgraded"><main class="material-layout__content" id="main"><div id="top"></div> <button class="MD-burger-icon sidebar-toggle"><span id="MD-burger-id" class="MD-burger-layer"></span></button> <button id="post-toc-trigger-btn" class="mdl-button mdl-js-button mdl-button--icon"> <i class="material-icons">format_list_numbered</i></button><ul class="post-toc-wrap mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect" for="post-toc-trigger-btn" style="max-height:80vh;overflow-y:scroll"><ol class="post-toc"><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#深入研究长格式输出"><span class="post-toc-number">1.</span> <span class="post-toc-text">深入研究长格式输出</span></a></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#确认文件类型"><span class="post-toc-number">2.</span> <span class="post-toc-text">确认文件类型</span></a></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#使用less浏览文件"><span class="post-toc-number">3.</span> <span class="post-toc-text">使用less浏览文件</span></a></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#符号链接"><span class="post-toc-number">4.</span> <span class="post-toc-text">符号链接</span></a></li></ol></ul><div class="material-post_container"><div class="material-post mdl-grid"><div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col"><div class="post_thumbnail-random mdl-card__media mdl-color-text--grey-50"><script type="text/ls-javascript" id="post-thumbnail-script">
+    var randomNum = Math.floor(Math.random() * 19 + 1);
+
+    $('.post_thumbnail-random').attr('data-original', '/img/random/material-' + randomNum + '.png');
+    $('.post_thumbnail-random').addClass('lazy');
+</script><p class="article-headline-p"> 原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件</p></div><div class="mdl-color-text--grey-700 mdl-card__supporting-text meta"><div id="author-avatar"> <img src="/img/avatar.png" width="44px" height="44px" alt="Author Avatar"></div><div> <strong>cuteximi</strong> <span>10月 13, 2018</span></div><div class="section-spacer"></div> <button id="article-functions-qrcode-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon"> <i class="material-icons" role="presentation">devices other</i> <span class="visuallyhidden">devices other</span></button><ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="article-functions-qrcode-button"><li class="mdl-menu__item">在其它设备中阅读本文章</li></ul> <button id="article-fuctions-share-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon"> <i class="material-icons" role="presentation">share</i> <span class="visuallyhidden">share</span></button><ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="article-fuctions-share-button"><a class="post_share-link" href="#"><li class="mdl-menu__item"> <span id="/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/" class="leancloud-views_num" data-flag-title="原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件">&nbsp;浏览量</span></li></a><a class="post_share-link" href="http://service.weibo.com/share/share.php?appkey=&title=原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件&url=blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/index.html&pic=blog.cuteximi.com/img/favicon.png&searchPic=false&style=simple" target="_blank"><li class="mdl-menu__item"> 分享到微博</li></a><a class="post_share-link" href="https://twitter.com/intent/tweet?text=原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件&url=blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/index.html&via=cuteximi" target="_blank"><li class="mdl-menu__item"> 分享到 Twitter</li></a><a class="post_share-link" href="https://www.facebook.com/sharer/sharer.php?u=blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/index.html" target="_blank"><li class="mdl-menu__item"> 分享到 Facebook</li></a><a class="post_share-link" href="https://plus.google.com/share?url=blog.cuteximi.com/原版英文书籍《Linux命令行》阅读记录3-解析文件的描述含义和阅读文件/index.html" target="_blank"><li class="mdl-menu__item"> 分享到 Google+</li></a></ul></div><div id="post-content" class="mdl-color-text--grey-700 mdl-card__supporting-text fade out"><p>背景：<br>阅读英文原作只为了更好地理解书中的精髓，当然也是为了更好地掌握书中的技巧。我们会坚持阅读全书，并记录书中的精髓。</p><h2 id="深入研究长格式输出"><a href="#深入研究长格式输出" class="headerlink" title="深入研究长格式输出"></a>深入研究长格式输出</h2><p>上一篇文章讲到 ls 命令加上 -l 就会输出详细的长格式信息。类似于这样的：</p><pre><code>-rw-r--r--   1 root  wheel      5 Apr  5 19:22 .CFUserTextEncoding
+-r--r--r--   1 root  wheel     10 Oct  3  2017 .forward
+drwxr-xr-x   3 root  wheel     96 Mar 16  2018 .oracle_jre_usage
+-rw-------   1 root  wheel   3667 Sep 30 10:05 .sh_history
+drwx------   3 root  wheel     96 Sep 18 22:02 .ssh
+-rw-------   1 root  wheel  15886 Aug 30 19:37 .viminfo
+drwx------  15 root  wheel    480 Mar 15  2018 Library
+</code></pre><p>我会依次讲解每个部分的大概。<br>以第一行的数据为例：<br><code>-rw-r--r-- 1 root wheel 5 Apr 5 19:22 .CFUserTextEncoding</code><br>第一部分：<code>-rw-r--r--</code></p><p>① - 代表文件类型，-代表普通文件，d代表目录。<br>②连续三个字符代表文件所有者的权限<br>③连续字符代表文件所属组的权限<br>④三个字符是文件其他所有人的权限</p><p>第二部分：<code>1</code>，代表文件的硬连接数<br>第三部分：<code>root</code> ，文件属于 root 用户<br>第三部分：<code>wheel</code>, 文件属于 wheel 组。<br>第四部分：<code>5</code> ,文件大小<br>第六部分：<code>Apr 5 19:22</code> ,文件上一次修改时间<br>第七部分：<code>.CFUserTextEncoding</code> , 文件名字</p><p><img src="https://upload-images.jianshu.io/upload_images/5317394-971e8ac8f1ae53ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image.png"></p><h2 id="确认文件类型"><a href="#确认文件类型" class="headerlink" title="确认文件类型"></a>确认文件类型</h2><p>在 linux 系统中，并不要求文件名称来反映文件内容。用 file 命令来确定文件的类型。</p><pre><code>file filename
+</code></pre><h2 id="使用less浏览文件"><a href="#使用less浏览文件" class="headerlink" title="使用less浏览文件"></a>使用less浏览文件</h2><p>The less command is a program to view text files.</p><p>为什么我们要查看文本文件呢？ 因为许多包含系统设置的文件（叫做配置文件），是以文本格式存储的，阅读它们 可以更深入的了解系统是如何工作的。另外，许多系统所用到的实际程序（叫做脚本）也是以这种格式存储的。<strong>more 程序只能向前翻页，而 less 程序允许前后翻页</strong></p><p>less 命令的使用规则：</p><pre><code>less filename
+</code></pre><p>运行 less 程序之后，可以使用下面这些命令来浏览文件。</p><table><thead><tr><th>命令</th><th>行为</th></tr></thead><tbody><tr><td>Page UP or b</td><td>向上翻滚一页</td></tr><tr><td>Page Down or space</td><td>向下翻滚一页</td></tr><tr><td>UP Arrow</td><td>向上翻滚一行</td></tr><tr><td>Down Arrow</td><td>向下翻滚一行</td></tr><tr><td>G</td><td>移动到最后一行</td></tr><tr><td>1G or g</td><td>移动到开头一行</td></tr><tr><td>/charaters</td><td>向前查找指定的字符串</td></tr><tr><td>n</td><td>向前查找下一个出现的字符串，这个字符串是之前所指定查找的</td></tr><tr><td>h</td><td>显示帮助屏幕</td></tr><tr><td>q</td><td>退出 less 程序</td></tr></tbody></table><table><thead><tr><th>目录</th><th>说明</th></tr></thead><tbody><tr><td>/</td><td>根目录，万物起源。</td></tr><tr><td>/bin</td><td>包含系统启动和运行所必须的二进制程序。</td></tr><tr><td>/boot</td><td>包含 Linux 内核、初始 RAM 磁盘映像（用于启动时所需的驱动）和 启动加载程序。有趣的文件：/boot/grub/grub.conf or menu.lst， 被用来配置启动加载程序。/boot/vmlinuz，Linux 内核。</td></tr><tr><td>/dev</td><td>这是一个包含设备结点的特殊目录。“一切都是文件”，也适用于设备。 在这个目录里，内核维护着所有设备的列表。</td></tr><tr><td>/etc</td><td>这个目录包含所有系统层面的配置文件。它也包含一系列的 shell 脚本， 在系统启动时，这些脚本会开启每个系统服务。这个目录中的任何文件应该是可读的文本文件。有趣的文件：虽然/etc 目录中的任何文件都有趣，但这里只列出了一些我一直喜欢的文件:/etc/crontab， 定义自动运行的任务。/etc/fstab，包含存储设备的列表，以及与他们相关的挂载点。/etc/passwd，包含用户帐号列表。</td></tr><tr><td>/home</td><td>在通常的配置环境下，系统会在/home 下，给每个用户分配一个目录。普通用户只能 在自己的目录下写文件。这个限制保护系统免受错误的用户活动破坏。</td></tr><tr><td>/lib</td><td>包含核心系统程序所使用的共享库文件。这些文件与 Windows 中的动态链接库相似。</td></tr><tr><td>/lost+found</td><td>每个使用 Linux 文件系统的格式化分区或设备，例如 ext3文件系统， 都会有这个目录。当部分恢复一个损坏的文件系统时，会用到这个目录。这个目录应该是空的，除非文件系统 真正的损坏了。</td></tr><tr><td>/media</td><td>在现在的 Linux 系统中，/media 目录会包含可移动介质的挂载点， 例如 USB 驱动器，CD-ROMs 等等。这些介质连接到计算机之后，会自动地挂载到这个目录结点下。</td></tr><tr><td>/mnt</td><td>在早些的 Linux 系统中，/mnt 目录包含可移动介质的挂载点。</td></tr><tr><td>/opt</td><td>这个/opt 目录被用来安装“可选的”软件。这个主要用来存储可能 安装在系统中的商业软件产品。</td></tr><tr><td>/proc</td><td>这个/proc 目录很特殊。从存储在硬盘上的文件的意义上说，它不是真正的文件系统。 相反，它是一个由 Linux 内核维护的虚拟文件系统。它所包含的文件是内核的窥视孔。这些文件是可读的， 它们会告诉你内核是怎样监管计算机的。</td></tr><tr><td>/root</td><td>root 帐户的家目录。</td></tr><tr><td>/sbin</td><td>这个目录包含“系统”二进制文件。它们是完成重大系统任务的程序，通常为<code>超级用户</code>保留。</td></tr><tr><td>/tmp</td><td>这个/tmp 目录，是用来存储由各种程序创建的临时文件的地方。一些配置导致系统每次 重新启动时，都会清空这个目录。</td></tr><tr><td>/usr</td><td>在 Linux 系统中，/usr 目录可能是最大的一个。它包含普通用户所需要的所有程序和文件。</td></tr><tr><td>/usr/bin</td><td>/usr/bin 目录包含系统安装的可执行程序。通常，这个目录会包含许多程序。</td></tr><tr><td>/usr/lib</td><td>包含由/usr/bin 目录中的程序所用的共享库。</td></tr><tr><td>/usr/local</td><td>这个/usr/local 目录，是非系统发行版自带程序的安装目录。 通常，由源码编译的程序会安装在/usr/local/bin 目录下。新安装的 Linux 系统中会存在这个目录， 并且在管理员安装程序之前，这个目录是空的。</td></tr><tr><td>/usr/sbin</td><td>包含许多系统管理程序。</td></tr><tr><td>/usr/share</td><td>/usr/share 目录包含许多由/usr/bin 目录中的程序使用的共享数据。 其中包括像默认的配置文件、图标、桌面背景、音频文件等等。</td></tr><tr><td>/usr/share/doc</td><td>大多数安装在系统中的软件包会包含一些文档。在/usr/share/doc 目录下， 我们可以找到按照软件包分类的文档。</td></tr><tr><td>/var</td><td>除了/tmp 和/home 目录之外，相对来说，目前我们看到的目录是静态的，这是说， 它们的内容不会改变。/var 目录存放的是动态文件。各种数据库，假脱机文件， 用户邮件等等，都位于在这里。</td></tr><tr><td>/var/log</td><td>这个/var/log 目录包含日志文件、各种系统活动的记录。这些文件非常重要，并且 应该时时监测它们。其中最重要的一个文件是/var/log/messages。注意，为了系统安全，在一些系统中， 你必须是超级用户才能查看这些日志文件。</td></tr></tbody></table><h2 id="符号链接"><a href="#符号链接" class="headerlink" title="符号链接"></a>符号链接</h2><p>有时候，你会看到输出这样的信息：</p><pre><code>lrwxrwxrwx 1 root root 11 2007-08-11 07:34 libc.so.6 -&gt; libc-2.6.so
+</code></pre><p>第一个l是什么?为什么有两个文件名呢？其实这是一个特殊的文件，叫做符号链接。 在大多数“类 Unix” 系统中， 有可能一个文件被多个文件名所指向。虽然这种特性的意义并不明显，但它真的很有用。</p><p>关于软连接和硬链接的区别以及意义，//todo</p></div><div id="comment" style="padding:10px" class="vcomment"></div><script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script><script src="//unpkg.com/valine/dist/Valine.min.js"></script><script>var GUEST_INFO=["nick","mail","link"],guest_info="nick,mail,link".split(",").filter(function(i){return-1<GUEST_INFO.indexOf(i)}),notify=!1,verify=!1;new Valine({el:".vcomment",notify:notify,verify:verify,appId:"",appKey:"",placeholder:"Just go go",pageSize:"10",avatar:"identicon",lang:"zh-cn",guest_info:guest_info})</script></div><nav class="material-nav mdl-color-text--grey-50 mdl-cell mdl-cell--12-col"> <a href="/原版英文书籍《Linux命令行》阅读记录4-操作文件和目录/" id="post_nav-newer" class="prev-content"><button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation"> <i class="material-icons">arrow_back</i></button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新篇</a><div class="section-spacer"></div> <a href="/原版英文书籍《Linux命令行》阅读记录2-在文件系统中翱翔/" id="post_nav-older" class="next-content">旧篇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation"> <i class="material-icons">arrow_forward</i></button></a></nav></div></div><div class="sidebar-overlay"></div><aside id="sidebar" class="sidebar sidebar-colored sidebar-fixed-left" role="navigation"><div id="sidebar-main"><div class="sidebar-header header-cover" style="background-image:url(/img/sidebar_header.png)"><div class="top-bar"></div> <button type="button" class="sidebar-toggle mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" style="display:initial" data-upgraded=",MaterialButton,MaterialRipple"> <i class="material-icons">clear_all</i><span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></button><div class="sidebar-image"> <img src="/img/avatar.png" alt="cuteximi's avatar"></div> <a data-toggle="dropdown" class="sidebar-brand" href="#settings-dropdown">aikuyun.tsl@gmail.com<b class="caret"></b></a></div><ul class="nav sidebar-nav"><li class="dropdown"><ul id="settings-dropdown" class="dropdown-menu"><li> <a href="#" target="_blank" title="Email Me"><i class="material-icons sidebar-material-icons sidebar-indent-left1pc-element">email</i> Email Me</a></li></ul></li><li id="sidebar-first-li"> <a href="/"><i class="material-icons sidebar-material-icons">home</i> 主页</a></li><li class="dropdown"> <a href="#" class="ripple-effect dropdown-toggle" data-toggle="dropdown"><i class="material-icons sidebar-material-icons">inbox</i> 归档<b class="caret"></b></a><ul class="dropdown-menu"><li> <a class="sidebar_archives-link" href="/archives/2018/10/">十月 2018<span class="sidebar_archives-count">13</span></a></li><li><a class="sidebar_archives-link" href="/archives/2018/09/">九月 2018<span class="sidebar_archives-count">7</span></a></li><li><a class="sidebar_archives-link" href="/archives/2018/04/">四月 2018<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/archives/2018/03/">三月 2018<span class="sidebar_archives-count">2</span></a></li><li><a class="sidebar_archives-link" href="/archives/2018/01/">一月 2018<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/11/">十一月 2017<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/09/">九月 2017<span class="sidebar_archives-count">5</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/08/">八月 2017<span class="sidebar_archives-count">3</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/07/">七月 2017<span class="sidebar_archives-count">12</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/06/">六月 2017<span class="sidebar_archives-count">7</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/05/">五月 2017<span class="sidebar_archives-count">11</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/04/">四月 2017<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/archives/2017/03/">三月 2017<span class="sidebar_archives-count">8</span></a></li></ul></li><li> <a href="/myresume" title="测试小站"><i class="material-icons sidebar-material-icons">person</i> 测试小站</a></li><li> <a href="/tags" title="标签云"><i class="material-icons sidebar-material-icons">cloud_circle</i> 标签云</a></li><li> <a href="/timeline" title="时间轴"><i class="material-icons sidebar-material-icons">send</i> 时间轴</a></li><li> <a href="/links" title="友链"><i class="material-icons sidebar-material-icons">link</i> 友链</a></li><li> <a href="/archives">文章总数 <span class="sidebar-badge">72</span></a></li></ul><div class="sidebar-divider"></div></div></aside><div id="back-to-top" class="toTop-wrap"> <a href="#top" class="toTop"><i class="material-icons footer_top-i">expand_less</i></a></div><footer class="mdl-mini-footer" id="bottom"><div class="mdl-mini-footer--left-section sns-list"> <a href="http://www.jianshu.com/u/95431265a9b0" target="_blank"><button class="mdl-mini-footer--social-btn social-btn footer-sns-weibo"> <span class="visuallyhidden">Weibo</span></button></a> <a href="http://blog.csdn.net/qq_31975963" target="_blank"><button class="mdl-mini-footer--social-btn social-btn footer-sns-instagram"> <span class="visuallyhidden">Instagram</span></button></a> <a href="http://www.github.com/aikuyun" target="_blank"><button class="mdl-mini-footer--social-btn social-btn footer-sns-github"> <span class="visuallyhidden">Github</span></button></a></div><div id="copyright"> Copyright&nbsp;©&nbsp;<span year></span>&nbsp; 认真搞定一切<br> To Be NO.1</div><div class="mdl-mini-footer--right-section"><div><div class="footer-develop-div">Powered by <a href="https://hexo.io" target="_blank" class="footer-develop-a">Hexo</a></div><div class="footer-develop-div">Theme - <a href="https://github.com/viosey/hexo-theme-material" target="_blank" class="footer-develop-a">Material</a></div></div></div></footer><script>lsloader.load("lazyload_js","/js/lazyload.min.js?1BcfzuNXqV+ntF6gq+5X3Q==",!0)</script><script>lsloader.load("js_js","/js/js.min.js?Bn9UzEm8RrBSxqyZB0zPjA==",!0)</script><script>lsloader.load("np_js","/js/nprogress.js?pl3Qhb9lvqR1FlyLUna1Yw==",!0)</script><script type="text/ls-javascript" id="NProgress-script">
+    NProgress.configure({
+        showSpinner: true
+    });
+    NProgress.start();
+    $('#nprogress .bar').css({
+        'background': '#29d'
+    });
+    $('#nprogress .peg').css({
+        'box-shadow': '0 0 10px #29d, 0 0 15px #29d'
+    });
+    $('#nprogress .spinner-icon').css({
+        'border-top-color': '#29d',
+        'border-left-color': '#29d'
+    });
+    setTimeout(function() {
+        NProgress.done();
+        $('.fade').removeClass('out');
+    }, 800);
+</script><script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script><script>AV.initialize("dvlWXb6HYmur6ivfGoBA8rhH-gzGzoHsz","cPlgoTRcS9mMVltx8Fw7F9lv")</script><script type="text/ls-javascript" id="leancloud-views-script">
+    function showTime(Counter) {
+        var query = new AV.Query(Counter);
+        $('.leancloud-views_num').each(function() {
+            var url = $(this).attr('id').trim();
+            query.equalTo('url', url);
+            query.find({
+                success: function(results) {
+                    if (results.length === 0) {
+                        var content = '0 ' + $(document.getElementById(url)).text();
+                        $(document.getElementById(url)).text(content);
+                        return;
+                    }
+                    for (var i = 0; i < results.length; i++) {
+                        var object = results[i];
+                        var content = object.get('time') + ' ' + $(document.getElementById(url)).text();
+                        $(document.getElementById(url)).text(content);
+                    }
+                },
+                error: function(object, error) {
+                    console.log('Error: ' + error.code + ' ' + error.message);
+                }
+            });
+        });
+    }
+
+    function addCount(Counter) {
+      var Counter = AV.Object.extend('Counter');
+      url = $('.leancloud-views_num').attr('id').trim();
+      title = $('.leancloud-views_num').attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+      query.equalTo('url', url);
+      query.find({
+          success: function(results) {
+            if (results.length > 0) {
+                var counter = results[0];
+                counter.fetchWhenSave(true);
+                counter.increment('time');
+                counter.save(null, {
+                    success: function(counter) {
+                        var content =  counter.get('time') + ' ' + $(document.getElementById(url)).text();
+                        $(document.getElementById(url)).text(content);
+                    },
+                    error: function(counter, error) {
+                        console.log('Failed to save Visitor num, with error message: ' + error.message);
+                    }
+                });
+            } else {
+              var newcounter = new Counter();
+              newcounter.set('title', title);
+              newcounter.set('url', url);
+              newcounter.set('time', 1);
+              newcounter.save(null, {
+                  success: function(newcounter) {
+                      console.log('newcounter.get(\'time\')='+newcounter.get('time'));
+                      var content = newcounter.get('time') + ' ' + $(document.getElementById(url)).text();
+                      $(document.getElementById(url)).text(content);
+                  },
+                  error: function(newcounter, error) {
+                      console.log('Failed to create');
+                  }
+              });
+            }
+        },
+        error: function(error) {
+            console.log('Error:' + error.code + ' ' + error.message);
+        }
+      });
+    }
+    $(function() {
+        var Counter = AV.Object.extend('Counter');
+        if ($('.leancloud-views_num').length === 1) {
+            addCount(Counter);
+        } else if ($('.post-title-link').length > 1) {
+            showTime(Counter);
+        }
+    });
+</script><script>var agent=navigator.userAgent.toLowerCase();0<agent.indexOf("ucbrowser")&&(document.write('<link rel="stylesheet" href="/css/uc.css">'),alert("由于 UC 浏览器使用极旧的内核，而本网站使用了一些新的特性。\n为了您能更好的浏览，推荐使用 Chrome 或 Firefox 浏览器。"))</script><script type="text/ls-javascript" id="window-load">
+    $(window).on('load', function() {
+        // Post_Toc parent position fixed
+        $('.post-toc-wrap').parent('.mdl-menu__container').css('position', 'fixed');
+    });
+
+    
+    
+</script><script type="text/ls-javascript" id="lazy-load">
+    // Offer LazyLoad
+    queue.offer(function(){
+        $('.lazy').lazyload({
+            effect : 'show'
+        });
+    });
+
+    // Start Queue
+    $(document).ready(function(){
+        setInterval(function(){
+            queue.execNext();
+        },200);
+    });
+</script><script>var copyrightNow=(new Date).getFullYear(),textContent=document.querySelector("span[year]");copyrightSince=2016,copyrightSince===copyrightNow||0===copyrightSince?textContent.textContent=copyrightNow:textContent.textContent=copyrightSince+" - "+copyrightNow,function(){for(var t=document.querySelectorAll('script[type="text/ls-javascript"]'),e=0;e<t.length;++e){var o=t[e];lsloader.runInlineScript(o.id,o.id)}}(),console.log("\n %c © Material Theme | Version: 1.5.5 | https://github.com/viosey/hexo-theme-material %c \n","color:#455a64;background:#e0e0e0;padding:5px 0;border-top-left-radius:5px;border-bottom-left-radius:5px;","color:#455a64;background:#e0e0e0;padding:5px 0;border-top-right-radius:5px;border-bottom-right-radius:5px;")</script></main></div></body></html>
