@@ -4,7 +4,29 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E8%AD%A6%E5%91%8A%E2%9A%A0%EF%B8%8F%EF%BC%9Awarning-setlocale-LC-CTYPE-cannot-change-locale-UTF-8-No-such-file-or-directory/</loc>
+    <loc>http://blog.cuteximi.com/study-01/</loc>
+    <lastmod>2018-10-31T17:27:27.330Z</lastmod>
+    <data>
+        <display>
+        <title>study-01</title>
+        <pubTime>2018-10-31T16:21:56.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="大数据学习" url="http://blog.cuteximi.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://blog.cuteximi.com/%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E8%AD%A6%E5%91%8A%E2%9A%A0%EF%B8%8F%EF%BC%9Awarning-setlocale-LC-CTYPE-cannot-change-locale-UTF-8-No-such-file-or-directory/</loc>
     <lastmod>2018-10-13T04:01:50.856Z</lastmod>
     <data>
         <display>
@@ -14,7 +36,7 @@
          
            
              
-              <breadCrumb title="字符编码" url="blog.cuteximi.com/categories/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/"/>
+              <breadCrumb title="字符编码" url="http://blog.cuteximi.com/categories/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/"/>
           
         </display>
     </data>
@@ -22,7 +44,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/make%E5%92%8Cmakeinstall%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
+    <loc>http://blog.cuteximi.com/make%E5%92%8Cmakeinstall%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2018-10-13T03:32:21.253Z</lastmod>
     <data>
         <display>
@@ -32,7 +54,7 @@
          
            
              
-              <breadCrumb title="编译程序" url="blog.cuteximi.com/categories/%E7%BC%96%E8%AF%91%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="编译程序" url="http://blog.cuteximi.com/categories/%E7%BC%96%E8%AF%91%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -40,7 +62,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E8%BF%90%E8%A1%8Cgulp%E9%A1%B9%E7%9B%AE%E6%8A%A5%E9%94%99%EF%BC%9AAssertionError-Task-function-must-be-specified/</loc>
+    <loc>http://blog.cuteximi.com/%E8%BF%90%E8%A1%8Cgulp%E9%A1%B9%E7%9B%AE%E6%8A%A5%E9%94%99%EF%BC%9AAssertionError-Task-function-must-be-specified/</loc>
     <lastmod>2018-10-13T03:21:16.395Z</lastmod>
     <data>
         <display>
@@ -57,7 +79,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E4%B8%80%E7%AB%99%E5%BC%8F%E8%A7%A3%E5%86%B3%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%BA%E5%B0%91%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%88%AB%E5%86%8D%E4%B8%BA%E4%BA%86%E7%BC%BA%E5%B0%91%E4%BE%9D%E8%B5%96%E8%80%8C%E7%83%A6%E6%81%BC%E4%BA%86%EF%BC%81/</loc>
+    <loc>http://blog.cuteximi.com/%E4%B8%80%E7%AB%99%E5%BC%8F%E8%A7%A3%E5%86%B3%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%BA%E5%B0%91%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%88%AB%E5%86%8D%E4%B8%BA%E4%BA%86%E7%BC%BA%E5%B0%91%E4%BE%9D%E8%B5%96%E8%80%8C%E7%83%A6%E6%81%BC%E4%BA%86%EF%BC%81/</loc>
     <lastmod>2018-10-13T03:17:39.026Z</lastmod>
     <data>
         <display>
@@ -67,7 +89,7 @@
          
            
              
-              <breadCrumb title="编译环境" url="blog.cuteximi.com/categories/%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/"/>
+              <breadCrumb title="编译环境" url="http://blog.cuteximi.com/categories/%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/"/>
           
         </display>
     </data>
@@ -75,7 +97,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%957-%E4%B8%80%E4%BA%9B%E9%94%AE%E7%9B%98%E6%8C%89%E9%94%AE%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%957-%E4%B8%80%E4%BA%9B%E9%94%AE%E7%9B%98%E6%8C%89%E9%94%AE%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2018-10-13T03:08:24.260Z</lastmod>
     <data>
         <display>
@@ -85,7 +107,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -93,7 +115,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%956-%E9%87%8D%E5%AE%9A%E5%90%91/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%956-%E9%87%8D%E5%AE%9A%E5%90%91/</loc>
     <lastmod>2018-10-13T03:07:24.143Z</lastmod>
     <data>
         <display>
@@ -103,7 +125,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -111,7 +133,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%955-%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%955-%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2018-10-13T03:06:48.603Z</lastmod>
     <data>
         <display>
@@ -121,7 +143,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -129,7 +151,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%954-%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E5%92%8C%E7%9B%AE%E5%BD%95/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%954-%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E5%92%8C%E7%9B%AE%E5%BD%95/</loc>
     <lastmod>2018-10-13T03:05:42.338Z</lastmod>
     <data>
         <display>
@@ -139,7 +161,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -147,7 +169,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%953-%E8%A7%A3%E6%9E%90%E6%96%87%E4%BB%B6%E7%9A%84%E6%8F%8F%E8%BF%B0%E5%90%AB%E4%B9%89%E5%92%8C%E9%98%85%E8%AF%BB%E6%96%87%E4%BB%B6/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%953-%E8%A7%A3%E6%9E%90%E6%96%87%E4%BB%B6%E7%9A%84%E6%8F%8F%E8%BF%B0%E5%90%AB%E4%B9%89%E5%92%8C%E9%98%85%E8%AF%BB%E6%96%87%E4%BB%B6/</loc>
     <lastmod>2018-10-13T03:04:59.015Z</lastmod>
     <data>
         <display>
@@ -157,7 +179,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -165,7 +187,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%952-%E5%9C%A8%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%BF%B1%E7%BF%94/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%952-%E5%9C%A8%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%BF%B1%E7%BF%94/</loc>
     <lastmod>2018-10-13T03:04:18.425Z</lastmod>
     <data>
         <display>
@@ -175,7 +197,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -183,7 +205,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%951-%E4%BB%80%E4%B9%88%E6%98%AFshell/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8E%9F%E7%89%88%E8%8B%B1%E6%96%87%E4%B9%A6%E7%B1%8D%E3%80%8ALinux%E5%91%BD%E4%BB%A4%E8%A1%8C%E3%80%8B%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%951-%E4%BB%80%E4%B9%88%E6%98%AFshell/</loc>
     <lastmod>2018-10-13T03:03:13.618Z</lastmod>
     <data>
         <display>
@@ -193,7 +215,7 @@
          
            
              
-              <breadCrumb title="Linux命令行" url="blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+              <breadCrumb title="Linux命令行" url="http://blog.cuteximi.com/categories/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
           
         </display>
     </data>
@@ -201,7 +223,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B9%8B%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E6%8C%91%E6%88%98/</loc>
+    <loc>http://blog.cuteximi.com/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B9%8B%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E6%8C%91%E6%88%98/</loc>
     <lastmod>2018-10-13T03:00:33.067Z</lastmod>
     <data>
         <display>
@@ -211,7 +233,7 @@
          
            
              
-              <breadCrumb title="并发编程" url="blog.cuteximi.com/categories/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="并发编程" url="http://blog.cuteximi.com/categories/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -219,7 +241,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E4%BC%98%E7%A7%80%E7%9A%84%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90/</loc>
+    <loc>http://blog.cuteximi.com/%E4%BC%98%E7%A7%80%E7%9A%84%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2018-10-12T09:09:31.009Z</lastmod>
     <data>
         <display>
@@ -231,7 +253,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -239,7 +261,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/aws-vpn/</loc>
+    <loc>http://blog.cuteximi.com/aws-vpn/</loc>
     <lastmod>2018-10-11T05:40:58.946Z</lastmod>
     <data>
         <display>
@@ -253,7 +275,7 @@
          
            
              
-              <breadCrumb title="随笔" url="blog.cuteximi.com/categories/%E9%9A%8F%E7%AC%94/"/>
+              <breadCrumb title="随笔" url="http://blog.cuteximi.com/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
@@ -261,7 +283,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/mac%E6%8C%87%E5%8D%97/</loc>
+    <loc>http://blog.cuteximi.com/mac%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2018-09-24T02:45:31.199Z</lastmod>
     <data>
         <display>
@@ -273,7 +295,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -281,7 +303,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E8%87%B4%E8%87%AA%E5%B7%B1/</loc>
+    <loc>http://blog.cuteximi.com/%E8%87%B4%E8%87%AA%E5%B7%B1/</loc>
     <lastmod>2018-09-19T06:40:22.501Z</lastmod>
     <data>
         <display>
@@ -291,7 +313,7 @@
          
            
              
-              <breadCrumb title="致自己" url="blog.cuteximi.com/categories/%E8%87%B4%E8%87%AA%E5%B7%B1/"/>
+              <breadCrumb title="致自己" url="http://blog.cuteximi.com/categories/%E8%87%B4%E8%87%AA%E5%B7%B1/"/>
           
         </display>
     </data>
@@ -299,7 +321,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/pip-bug%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <loc>http://blog.cuteximi.com/pip-bug%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
     <lastmod>2018-09-19T06:40:21.295Z</lastmod>
     <data>
         <display>
@@ -316,7 +338,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E8%87%B4%E8%87%AA%E5%B7%B1-%E5%85%B3%E9%94%AE%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://blog.cuteximi.com/%E8%87%B4%E8%87%AA%E5%B7%B1-%E5%85%B3%E9%94%AE%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2018-09-19T06:40:19.705Z</lastmod>
     <data>
         <display>
@@ -331,7 +353,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/SpringBoot%E9%87%87%E5%9D%91-%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AE%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0Controller/</loc>
+    <loc>http://blog.cuteximi.com/SpringBoot%E9%87%87%E5%9D%91-%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AE%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0Controller/</loc>
     <lastmod>2018-09-19T06:40:18.087Z</lastmod>
     <data>
         <display>
@@ -348,7 +370,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <loc>http://blog.cuteximi.com/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
     <lastmod>2018-09-19T06:28:49.576Z</lastmod>
     <data>
         <display>
@@ -363,7 +385,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/jstat%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
+    <loc>http://blog.cuteximi.com/jstat%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2018-09-19T06:27:49.963Z</lastmod>
     <data>
         <display>
@@ -375,7 +397,7 @@
          
            
              
-              <breadCrumb title="JVM" url="blog.cuteximi.com/categories/JVM/"/>
+              <breadCrumb title="JVM" url="http://blog.cuteximi.com/categories/JVM/"/>
           
         </display>
     </data>
@@ -383,7 +405,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E4%B8%80%E4%B8%AA%E7%89%9B%E9%80%BC%E7%9A%84coder/</loc>
+    <loc>http://blog.cuteximi.com/%E4%B8%80%E4%B8%AA%E7%89%9B%E9%80%BC%E7%9A%84coder/</loc>
     <lastmod>2018-09-18T12:15:22.681Z</lastmod>
     <data>
         <display>
@@ -395,7 +417,7 @@
          
            
              
-              <breadCrumb title="程序员" url="blog.cuteximi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+              <breadCrumb title="程序员" url="http://blog.cuteximi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
           
         </display>
     </data>
@@ -403,7 +425,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/network-generator/</loc>
+    <loc>http://blog.cuteximi.com/network-generator/</loc>
     <lastmod>2018-04-08T00:52:38.000Z</lastmod>
     <data>
         <display>
@@ -415,7 +437,7 @@
          
            
              
-              <breadCrumb title="计算机基础" url="blog.cuteximi.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+              <breadCrumb title="计算机基础" url="http://blog.cuteximi.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
           
         </display>
     </data>
@@ -423,7 +445,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/oracle-study/</loc>
+    <loc>http://blog.cuteximi.com/oracle-study/</loc>
     <lastmod>2018-03-29T02:11:15.000Z</lastmod>
     <data>
         <display>
@@ -440,7 +462,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/whyDocker/</loc>
+    <loc>http://blog.cuteximi.com/whyDocker/</loc>
     <lastmod>2018-03-28T09:48:47.000Z</lastmod>
     <data>
         <display>
@@ -457,7 +479,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E8%BF%99%E6%A0%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8google/</loc>
+    <loc>http://blog.cuteximi.com/%E8%BF%99%E6%A0%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8google/</loc>
     <lastmod>2017-11-10T10:13:00.000Z</lastmod>
     <data>
         <display>
@@ -469,7 +491,7 @@
          
            
              
-              <breadCrumb title="随笔" url="blog.cuteximi.com/categories/%E9%9A%8F%E7%AC%94/"/>
+              <breadCrumb title="随笔" url="http://blog.cuteximi.com/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
@@ -477,7 +499,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/Shiro%E6%A6%82%E5%BF%B5%E7%AF%87/</loc>
+    <loc>http://blog.cuteximi.com/Shiro%E6%A6%82%E5%BF%B5%E7%AF%87/</loc>
     <lastmod>2017-09-19T01:06:17.000Z</lastmod>
     <data>
         <display>
@@ -489,7 +511,7 @@
          
            
              
-              <breadCrumb title="框架" url="blog.cuteximi.com/categories/%E6%A1%86%E6%9E%B6/"/>
+              <breadCrumb title="框架" url="http://blog.cuteximi.com/categories/%E6%A1%86%E6%9E%B6/"/>
           
         </display>
     </data>
@@ -497,7 +519,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/Spring%E4%B8%AD%E7%9A%84%E5%8D%95%E4%BE%8B%E5%92%8C%E5%A4%9A%E4%BE%8B/</loc>
+    <loc>http://blog.cuteximi.com/Spring%E4%B8%AD%E7%9A%84%E5%8D%95%E4%BE%8B%E5%92%8C%E5%A4%9A%E4%BE%8B/</loc>
     <lastmod>2017-09-19T01:04:45.000Z</lastmod>
     <data>
         <display>
@@ -509,7 +531,7 @@
          
            
              
-              <breadCrumb title="框架" url="blog.cuteximi.com/categories/%E6%A1%86%E6%9E%B6/"/>
+              <breadCrumb title="框架" url="http://blog.cuteximi.com/categories/%E6%A1%86%E6%9E%B6/"/>
           
         </display>
     </data>
@@ -517,7 +539,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/SpringMVC%E6%8E%A5%E5%8F%97%E5%8F%82%E6%95%B0/</loc>
+    <loc>http://blog.cuteximi.com/SpringMVC%E6%8E%A5%E5%8F%97%E5%8F%82%E6%95%B0/</loc>
     <lastmod>2017-09-19T01:02:11.000Z</lastmod>
     <data>
         <display>
@@ -529,7 +551,7 @@
          
            
              
-              <breadCrumb title="框架" url="blog.cuteximi.com/categories/%E6%A1%86%E6%9E%B6/"/>
+              <breadCrumb title="框架" url="http://blog.cuteximi.com/categories/%E6%A1%86%E6%9E%B6/"/>
           
         </display>
     </data>
@@ -537,7 +559,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E6%95%B0%E7%BB%84%E6%89%A9%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://blog.cuteximi.com/%E6%95%B0%E7%BB%84%E6%89%A9%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-09-19T00:53:33.000Z</lastmod>
     <data>
         <display>
@@ -549,7 +571,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -557,7 +579,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/float/</loc>
+    <loc>http://blog.cuteximi.com/float/</loc>
     <lastmod>2017-09-19T00:39:44.000Z</lastmod>
     <data>
         <display>
@@ -569,7 +591,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -577,7 +599,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/Thread/</loc>
+    <loc>http://blog.cuteximi.com/Thread/</loc>
     <lastmod>2017-09-12T05:04:45.000Z</lastmod>
     <data>
         <display>
@@ -589,7 +611,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -597,7 +619,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/docker/</loc>
+    <loc>http://blog.cuteximi.com/docker/</loc>
     <lastmod>2017-08-20T00:26:25.000Z</lastmod>
     <data>
         <display>
@@ -609,7 +631,7 @@
          
            
              
-              <breadCrumb title="docker" url="blog.cuteximi.com/categories/docker/"/>
+              <breadCrumb title="docker" url="http://blog.cuteximi.com/categories/docker/"/>
           
         </display>
     </data>
@@ -619,7 +641,7 @@
     
     
   <url>
-    <loc>blog.cuteximi.com/hello-world/</loc>
+    <loc>http://blog.cuteximi.com/hello-world/</loc>
     <lastmod>2017-07-28T00:52:54.000Z</lastmod>
     <data>
         <display>
@@ -636,7 +658,7 @@
     
     
   <url>
-    <loc>blog.cuteximi.com/ArrayList%E6%BA%90%E7%A0%81/</loc>
+    <loc>http://blog.cuteximi.com/ArrayList%E6%BA%90%E7%A0%81/</loc>
     <lastmod>2017-07-22T12:10:02.000Z</lastmod>
     <data>
         <display>
@@ -653,7 +675,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E6%95%B0%E7%BB%84%E4%B8%8E%E9%93%BE%E8%A1%A8/</loc>
+    <loc>http://blog.cuteximi.com/%E6%95%B0%E7%BB%84%E4%B8%8E%E9%93%BE%E8%A1%A8/</loc>
     <lastmod>2017-07-19T06:32:26.000Z</lastmod>
     <data>
         <display>
@@ -667,7 +689,7 @@
          
            
              
-              <breadCrumb title="数据结构" url="blog.cuteximi.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+              <breadCrumb title="数据结构" url="http://blog.cuteximi.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
           
         </display>
     </data>
@@ -675,7 +697,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/express/</loc>
+    <loc>http://blog.cuteximi.com/express/</loc>
     <lastmod>2017-07-05T01:55:57.000Z</lastmod>
     <data>
         <display>
@@ -694,7 +716,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/express-static/</loc>
+    <loc>http://blog.cuteximi.com/express-static/</loc>
     <lastmod>2017-07-05T01:45:38.000Z</lastmod>
     <data>
         <display>
@@ -713,7 +735,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/express-generator/</loc>
+    <loc>http://blog.cuteximi.com/express-generator/</loc>
     <lastmod>2017-07-05T01:44:47.000Z</lastmod>
     <data>
         <display>
@@ -732,7 +754,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/express-router/</loc>
+    <loc>http://blog.cuteximi.com/express-router/</loc>
     <lastmod>2017-07-05T01:44:20.000Z</lastmod>
     <data>
         <display>
@@ -751,7 +773,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/express-hello/</loc>
+    <loc>http://blog.cuteximi.com/express-hello/</loc>
     <lastmod>2017-07-05T01:43:46.000Z</lastmod>
     <data>
         <display>
@@ -770,7 +792,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/express-start/</loc>
+    <loc>http://blog.cuteximi.com/express-start/</loc>
     <lastmod>2017-07-05T01:43:14.000Z</lastmod>
     <data>
         <display>
@@ -789,7 +811,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/Pages%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AE%80%E5%8E%86/</loc>
+    <loc>http://blog.cuteximi.com/Pages%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AE%80%E5%8E%86/</loc>
     <lastmod>2017-07-04T02:19:23.000Z</lastmod>
     <data>
         <display>
@@ -804,7 +826,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/springBoot%E5%BC%80%E5%A7%8B/</loc>
+    <loc>http://blog.cuteximi.com/springBoot%E5%BC%80%E5%A7%8B/</loc>
     <lastmod>2017-07-02T14:32:42.000Z</lastmod>
     <data>
         <display>
@@ -821,7 +843,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/Linux%E5%AE%9E%E9%AA%8C%E4%BA%8C/</loc>
+    <loc>http://blog.cuteximi.com/Linux%E5%AE%9E%E9%AA%8C%E4%BA%8C/</loc>
     <lastmod>2017-07-02T14:10:25.000Z</lastmod>
     <data>
         <display>
@@ -833,7 +855,7 @@
          
            
              
-              <breadCrumb title="动手实验搭建环境" url="blog.cuteximi.com/categories/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
+              <breadCrumb title="动手实验搭建环境" url="http://blog.cuteximi.com/categories/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
           
         </display>
     </data>
@@ -841,7 +863,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/Linux%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://blog.cuteximi.com/Linux%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2017-07-02T07:28:48.000Z</lastmod>
     <data>
         <display>
@@ -853,7 +875,7 @@
          
            
              
-              <breadCrumb title="动手实验搭建环境" url="blog.cuteximi.com/categories/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
+              <breadCrumb title="动手实验搭建环境" url="http://blog.cuteximi.com/categories/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
           
         </display>
     </data>
@@ -861,7 +883,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>http://blog.cuteximi.com/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2017-07-02T06:49:07.000Z</lastmod>
     <data>
         <display>
@@ -873,7 +895,7 @@
          
            
              
-              <breadCrumb title="动手实验搭建环境" url="blog.cuteximi.com/categories/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
+              <breadCrumb title="动手实验搭建环境" url="http://blog.cuteximi.com/categories/%E5%8A%A8%E6%89%8B%E5%AE%9E%E9%AA%8C%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/"/>
           
         </display>
     </data>
@@ -882,7 +904,7 @@
     
     
   <url>
-    <loc>blog.cuteximi.com/%E5%9B%A2%E9%98%9F/</loc>
+    <loc>http://blog.cuteximi.com/%E5%9B%A2%E9%98%9F/</loc>
     <lastmod>2017-06-23T14:10:56.000Z</lastmod>
     <data>
         <display>
@@ -894,7 +916,7 @@
          
            
              
-              <breadCrumb title="篮球" url="blog.cuteximi.com/categories/%E7%AF%AE%E7%90%83/"/>
+              <breadCrumb title="篮球" url="http://blog.cuteximi.com/categories/%E7%AF%AE%E7%90%83/"/>
           
         </display>
     </data>
@@ -902,7 +924,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E8%8B%B1%E8%AF%AD%E8%A7%92/</loc>
+    <loc>http://blog.cuteximi.com/%E8%8B%B1%E8%AF%AD%E8%A7%92/</loc>
     <lastmod>2017-06-22T14:14:03.000Z</lastmod>
     <data>
         <display>
@@ -919,7 +941,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/theme/</loc>
+    <loc>http://blog.cuteximi.com/theme/</loc>
     <lastmod>2017-06-22T13:33:58.000Z</lastmod>
     <data>
         <display>
@@ -936,7 +958,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/ET02/</loc>
+    <loc>http://blog.cuteximi.com/ET02/</loc>
     <lastmod>2017-06-22T12:40:46.000Z</lastmod>
     <data>
         <display>
@@ -948,7 +970,7 @@
          
            
              
-              <breadCrumb title="英语" url="blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+              <breadCrumb title="英语" url="http://blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
           
         </display>
     </data>
@@ -956,7 +978,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/ET03/</loc>
+    <loc>http://blog.cuteximi.com/ET03/</loc>
     <lastmod>2017-06-22T12:40:26.000Z</lastmod>
     <data>
         <display>
@@ -968,7 +990,7 @@
          
            
              
-              <breadCrumb title="英语" url="blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+              <breadCrumb title="英语" url="http://blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
           
         </display>
     </data>
@@ -976,7 +998,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/ET01/</loc>
+    <loc>http://blog.cuteximi.com/ET01/</loc>
     <lastmod>2017-06-22T12:39:51.000Z</lastmod>
     <data>
         <display>
@@ -988,7 +1010,7 @@
          
            
              
-              <breadCrumb title="英语" url="blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+              <breadCrumb title="英语" url="http://blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
           
         </display>
     </data>
@@ -996,7 +1018,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/ET04/</loc>
+    <loc>http://blog.cuteximi.com/ET04/</loc>
     <lastmod>2017-06-22T12:39:25.000Z</lastmod>
     <data>
         <display>
@@ -1008,7 +1030,7 @@
          
            
              
-              <breadCrumb title="英语" url="blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+              <breadCrumb title="英语" url="http://blog.cuteximi.com/categories/%E8%8B%B1%E8%AF%AD/"/>
           
         </display>
     </data>
@@ -1016,7 +1038,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/springmvc%E5%A1%AB%E5%9D%91%EF%BC%881%EF%BC%89/</loc>
+    <loc>http://blog.cuteximi.com/springmvc%E5%A1%AB%E5%9D%91%EF%BC%881%EF%BC%89/</loc>
     <lastmod>2017-06-22T12:38:50.000Z</lastmod>
     <data>
         <display>
@@ -1028,7 +1050,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -1036,7 +1058,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/npm%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://blog.cuteximi.com/npm%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2017-06-22T12:38:19.000Z</lastmod>
     <data>
         <display>
@@ -1048,7 +1070,7 @@
          
            
              
-              <breadCrumb title="工具" url="blog.cuteximi.com/categories/%E5%B7%A5%E5%85%B7/"/>
+              <breadCrumb title="工具" url="http://blog.cuteximi.com/categories/%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
@@ -1056,7 +1078,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/win10/</loc>
+    <loc>http://blog.cuteximi.com/win10/</loc>
     <lastmod>2017-06-22T12:37:35.000Z</lastmod>
     <data>
         <display>
@@ -1068,7 +1090,7 @@
          
            
              
-              <breadCrumb title="随笔" url="blog.cuteximi.com/categories/%E9%9A%8F%E7%AC%94/"/>
+              <breadCrumb title="随笔" url="http://blog.cuteximi.com/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
@@ -1076,7 +1098,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/comeon/</loc>
+    <loc>http://blog.cuteximi.com/comeon/</loc>
     <lastmod>2017-06-22T12:37:07.000Z</lastmod>
     <data>
         <display>
@@ -1088,7 +1110,7 @@
          
            
              
-              <breadCrumb title="资料库" url="blog.cuteximi.com/categories/%E8%B5%84%E6%96%99%E5%BA%93/"/>
+              <breadCrumb title="资料库" url="http://blog.cuteximi.com/categories/%E8%B5%84%E6%96%99%E5%BA%93/"/>
           
         </display>
     </data>
@@ -1096,7 +1118,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/java%E6%89%8B%E5%86%8C%EF%BC%88%E9%98%BF%E9%87%8C%EF%BC%89/</loc>
+    <loc>http://blog.cuteximi.com/java%E6%89%8B%E5%86%8C%EF%BC%88%E9%98%BF%E9%87%8C%EF%BC%89/</loc>
     <lastmod>2017-06-22T12:34:26.000Z</lastmod>
     <data>
         <display>
@@ -1108,7 +1130,7 @@
          
            
              
-              <breadCrumb title="java基础" url="blog.cuteximi.com/categories/java%E5%9F%BA%E7%A1%80/"/>
+              <breadCrumb title="java基础" url="http://blog.cuteximi.com/categories/java%E5%9F%BA%E7%A1%80/"/>
           
         </display>
     </data>
@@ -1116,7 +1138,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/SrpingMVC%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://blog.cuteximi.com/SrpingMVC%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2017-05-11T12:01:02.000Z</lastmod>
     <data>
         <display>
@@ -1128,7 +1150,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -1136,7 +1158,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/newStart/</loc>
+    <loc>http://blog.cuteximi.com/newStart/</loc>
     <lastmod>2017-05-11T11:55:41.000Z</lastmod>
     <data>
         <display>
@@ -1146,7 +1168,7 @@
          
            
              
-              <breadCrumb title="转折" url="blog.cuteximi.com/categories/%E8%BD%AC%E6%8A%98/"/>
+              <breadCrumb title="转折" url="http://blog.cuteximi.com/categories/%E8%BD%AC%E6%8A%98/"/>
           
         </display>
     </data>
@@ -1154,7 +1176,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/java%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96/</loc>
+    <loc>http://blog.cuteximi.com/java%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2017-05-11T11:54:36.000Z</lastmod>
     <data>
         <display>
@@ -1166,7 +1188,7 @@
          
            
              
-              <breadCrumb title="java基础" url="blog.cuteximi.com/categories/java%E5%9F%BA%E7%A1%80/"/>
+              <breadCrumb title="java基础" url="http://blog.cuteximi.com/categories/java%E5%9F%BA%E7%A1%80/"/>
           
         </display>
     </data>
@@ -1174,7 +1196,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/coding01/</loc>
+    <loc>http://blog.cuteximi.com/coding01/</loc>
     <lastmod>2017-05-05T13:52:32.000Z</lastmod>
     <data>
         <display>
@@ -1186,7 +1208,7 @@
          
            
              
-              <breadCrumb title="知识点" url="blog.cuteximi.com/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+              <breadCrumb title="知识点" url="http://blog.cuteximi.com/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
           
         </display>
     </data>
@@ -1194,7 +1216,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</loc>
+    <loc>http://blog.cuteximi.com/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</loc>
     <lastmod>2017-05-02T13:10:18.000Z</lastmod>
     <data>
         <display>
@@ -1204,7 +1226,7 @@
          
            
              
-              <breadCrumb title="java基础" url="blog.cuteximi.com/categories/java%E5%9F%BA%E7%A1%80/"/>
+              <breadCrumb title="java基础" url="http://blog.cuteximi.com/categories/java%E5%9F%BA%E7%A1%80/"/>
           
         </display>
     </data>
@@ -1212,7 +1234,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/</loc>
+    <loc>http://blog.cuteximi.com/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2017-05-02T10:28:27.000Z</lastmod>
     <data>
         <display>
@@ -1222,7 +1244,7 @@
          
            
              
-              <breadCrumb title="大三计划" url="blog.cuteximi.com/categories/%E5%A4%A7%E4%B8%89%E8%AE%A1%E5%88%92/"/>
+              <breadCrumb title="大三计划" url="http://blog.cuteximi.com/categories/%E5%A4%A7%E4%B8%89%E8%AE%A1%E5%88%92/"/>
           
         </display>
     </data>
@@ -1230,7 +1252,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A6%81%E5%AD%A6%E7%9A%84%E4%B8%9C%E8%A5%BF/</loc>
+    <loc>http://blog.cuteximi.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A6%81%E5%AD%A6%E7%9A%84%E4%B8%9C%E8%A5%BF/</loc>
     <lastmod>2017-04-06T13:15:34.000Z</lastmod>
     <data>
         <display>
@@ -1242,7 +1264,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
@@ -1250,7 +1272,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E7%88%B1%E5%A5%B9%E5%B0%B1%E4%B8%8D%E4%BC%9A%E4%BA%89%E8%AE%BA%E8%BE%93%E8%B5%A2/</loc>
+    <loc>http://blog.cuteximi.com/%E7%88%B1%E5%A5%B9%E5%B0%B1%E4%B8%8D%E4%BC%9A%E4%BA%89%E8%AE%BA%E8%BE%93%E8%B5%A2/</loc>
     <lastmod>2017-03-28T14:14:22.000Z</lastmod>
     <data>
         <display>
@@ -1262,7 +1284,7 @@
          
            
              
-              <breadCrumb title="生活" url="blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
+              <breadCrumb title="生活" url="http://blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
@@ -1270,7 +1292,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/music/</loc>
+    <loc>http://blog.cuteximi.com/music/</loc>
     <lastmod>2017-03-28T14:09:28.000Z</lastmod>
     <data>
         <display>
@@ -1282,7 +1304,7 @@
          
            
              
-              <breadCrumb title="生活" url="blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
+              <breadCrumb title="生活" url="http://blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
@@ -1290,7 +1312,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/%E7%88%B1%E4%B9%85%E4%B8%80%E7%82%B9/</loc>
+    <loc>http://blog.cuteximi.com/%E7%88%B1%E4%B9%85%E4%B8%80%E7%82%B9/</loc>
     <lastmod>2017-03-28T14:05:56.000Z</lastmod>
     <data>
         <display>
@@ -1302,7 +1324,7 @@
          
            
              
-              <breadCrumb title="生活" url="blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
+              <breadCrumb title="生活" url="http://blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
@@ -1310,7 +1332,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/maven/</loc>
+    <loc>http://blog.cuteximi.com/maven/</loc>
     <lastmod>2017-03-27T14:58:21.000Z</lastmod>
     <data>
         <display>
@@ -1322,7 +1344,7 @@
          
            
              
-              <breadCrumb title="工具" url="blog.cuteximi.com/categories/%E5%B7%A5%E5%85%B7/"/>
+              <breadCrumb title="工具" url="http://blog.cuteximi.com/categories/%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
@@ -1330,7 +1352,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/home/</loc>
+    <loc>http://blog.cuteximi.com/home/</loc>
     <lastmod>2017-03-26T14:11:34.000Z</lastmod>
     <data>
         <display>
@@ -1340,7 +1362,7 @@
          
            
              
-              <breadCrumb title="生活" url="blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
+              <breadCrumb title="生活" url="http://blog.cuteximi.com/categories/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
@@ -1348,7 +1370,7 @@
 
     
   <url>
-    <loc>blog.cuteximi.com/mybatis%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://blog.cuteximi.com/mybatis%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2017-03-21T07:49:43.000Z</lastmod>
     <data>
         <display>
@@ -1360,7 +1382,7 @@
          
            
              
-              <breadCrumb title="编程" url="blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="编程" url="http://blog.cuteximi.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
