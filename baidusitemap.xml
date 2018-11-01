@@ -4,11 +4,31 @@
 
     
   <url>
-    <loc>http://blog.cuteximi.com/study-01/</loc>
-    <lastmod>2018-11-01T05:24:17.170Z</lastmod>
+    <loc>http://blog.cuteximi.com/Study-02-2018-11-01/</loc>
+    <lastmod>2018-11-01T13:59:45.271Z</lastmod>
     <data>
         <display>
-        <title>study-01</title>
+        <title>Study-02-2018-11-01</title>
+        <pubTime>2018-11-01T13:57:20.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="大数据学习" url="http://blog.cuteximi.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cuteximi.com/study-01/</loc>
+    <lastmod>2018-11-01T13:57:31.003Z</lastmod>
+    <data>
+        <display>
+        <title>Study-01-2018-10-31</title>
         <pubTime>2018-10-31T16:21:56.000Z</pubTime>
         
         <tag>Linux</tag>
