@@ -65,11 +65,9 @@ http://blog.cuteximi.com/面向对象三大特性/
 http://blog.cuteximi.com/学习计划/
 http://blog.cuteximi.com/newStart/
 http://blog.cuteximi.com/程序员要学的东西/
-http://blog.cuteximi.com/爱她就不会争论输赢/
 http://blog.cuteximi.com/music/
 http://blog.cuteximi.com/maven/
 http://blog.cuteximi.com/home/
 http://blog.cuteximi.com/mybatis入门/
 http://blog.cuteximi.com/SrpingMVC入门/
-http://blog.cuteximi.com/爱久一点/
 http://blog.cuteximi.com/hello-world/
