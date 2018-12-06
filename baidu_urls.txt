@@ -1,6 +1,3 @@
-http://blog.cuteximi.com/Study-03-2018-11-02/
-http://blog.cuteximi.com/Study-02-2018-11-01/
-http://blog.cuteximi.com/study-01-2018-10-31/
 http://blog.cuteximi.com/一站式解决服务器缺少编译环境的问题，别再为了缺少依赖而烦恼了！/
 http://blog.cuteximi.com/解决这个警告⚠️：warning-setlocale-LC-CTYPE-cannot-change-locale-UTF-8-No-such-file-or-directory/
 http://blog.cuteximi.com/运行gulp项目报错：AssertionError-Task-function-must-be-specified/
@@ -26,6 +23,9 @@ http://blog.cuteximi.com/oracle-study/
 http://blog.cuteximi.com/whyDocker/
 http://blog.cuteximi.com/aws-vpn/
 http://blog.cuteximi.com/这样也可以使用google/
+http://blog.cuteximi.com/linux02/
+http://blog.cuteximi.com/linux03/
+http://blog.cuteximi.com/linux01/
 http://blog.cuteximi.com/Shiro概念篇/
 http://blog.cuteximi.com/Spring中的单例和多例/
 http://blog.cuteximi.com/SpringMVC接受参数/
@@ -71,3 +71,4 @@ http://blog.cuteximi.com/home/
 http://blog.cuteximi.com/mybatis入门/
 http://blog.cuteximi.com/SrpingMVC入门/
 http://blog.cuteximi.com/hello-world/
+http://blog.cuteximi.com/Flume-1-x/

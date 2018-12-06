@@ -4,6 +4,86 @@
 
     
   <url>
+    <loc>http://blog.cuteximi.com/linux01/</loc>
+    <lastmod>2018-12-06T09:16:03.805Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 知识整理01</title>
+        <pubTime>2017-10-31T16:21:56.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="BigData" url="http://blog.cuteximi.com/categories/BigData/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cuteximi.com/linux02/</loc>
+    <lastmod>2018-12-06T09:12:22.533Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 知识整理02</title>
+        <pubTime>2017-11-03T10:59:42.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="BigData" url="http://blog.cuteximi.com/categories/BigData/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cuteximi.com/linux03/</loc>
+    <lastmod>2018-12-06T09:12:06.219Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 知识整理03</title>
+        <pubTime>2017-11-01T13:57:20.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="BigData" url="http://blog.cuteximi.com/categories/BigData/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cuteximi.com/Flume-1-x/</loc>
+    <lastmod>2018-12-06T09:10:12.443Z</lastmod>
+    <data>
+        <display>
+        <title>Flume-1.x</title>
+        <pubTime>2016-12-06T09:05:56.000Z</pubTime>
+        
+        <tag>Flume</tag>
+         
+         
+           
+             
+              <breadCrumb title="BigData" url="http://blog.cuteximi.com/categories/BigData/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.cuteximi.com/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
     <lastmod>2018-11-29T10:45:28.836Z</lastmod>
     <data>
@@ -13,66 +93,6 @@
         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cuteximi.com/Study-03-2018-11-02/</loc>
-    <lastmod>2018-11-03T11:23:37.532Z</lastmod>
-    <data>
-        <display>
-        <title>Study-03-2018-11-02</title>
-        <pubTime>2018-11-03T10:59:42.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="大数据学习" url="http://blog.cuteximi.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cuteximi.com/study-01-2018-10-31/</loc>
-    <lastmod>2018-11-03T11:16:04.099Z</lastmod>
-    <data>
-        <display>
-        <title>Study-01-2018-10-31</title>
-        <pubTime>2018-10-31T16:21:56.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="大数据学习" url="http://blog.cuteximi.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cuteximi.com/Study-02-2018-11-01/</loc>
-    <lastmod>2018-11-03T11:15:55.050Z</lastmod>
-    <data>
-        <display>
-        <title>Study-02-2018-11-01</title>
-        <pubTime>2018-11-01T13:57:20.000Z</pubTime>
-        
-        <tag>Linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="大数据学习" url="http://blog.cuteximi.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0/"/>
-          
         </display>
     </data>
     </url>
